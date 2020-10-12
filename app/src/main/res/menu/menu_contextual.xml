@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/opcContextual01"
+        android:title="@string/txtOpcCtx1" />
+    <item
+        android:id="@+id/opcContextual02"
+        android:title="@string/txtOpcCtx2" />
+</menu>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/opcion1"
+        android:title="@string/txtOpcion1"
+        android:icon="@android:drawable/ic_menu_add"
+        android:showAsAction="ifRoom|withText" />
+    <item android:id="@+id/opcion2" android:title="@string/txtOpcion2" />
+    <item android:id="@+id/opcion3" android:title="@string/txtOpcion3" />
+</menu>

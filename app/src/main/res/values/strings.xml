@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">[MiW] Menús</string>
+    <string name="texto">Menú contextual (mantener pulsado)</string>
+
+    <!-- Opciones menú -->
+    <string name="txtOpcion1">Acción 1</string>
+    <string name="txtOpcion2">Acción 2</string>
+    <string name="txtOpcion3">Acción 3</string>
+    <string name="txtOpcion4">Acción 4</string>
+
+    <!-- Opciones menú contextual -->
+    <string name="txtOpcCtx1">Opción Contextual 1</string>
+    <string name="txtOpcCtx2">Opción Contextual 2</string>
+</resources>
