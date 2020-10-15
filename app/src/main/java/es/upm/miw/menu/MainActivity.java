@@ -12,6 +12,8 @@ import android.widget.Toast;
 
 public class MainActivity extends Activity {
 
+
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -24,6 +26,8 @@ public class MainActivity extends Activity {
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {
         getMenuInflater().inflate(R.menu.menu, menu);
+        // Options 1..3 are added to the menu from xml
+        // Option 4 is added to the menu programmatically
         menu.add(Menu.NONE, 4, Menu.NONE, R.string.txtOpcion4);
         return true;
     }
