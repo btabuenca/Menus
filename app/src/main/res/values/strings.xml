@@ -1,14 +1,22 @@
 <resources>
-    <string name="app_name">[MiW] Menús</string>
-    <string name="texto">Menú contextual (mantener pulsado)</string>
+    <string name="app_name">Menus</string>
+    <string name="texto">Pulsa largo para activar menu contextual o flotante</string>
+    <string name="textoboton">Pulsa largo para activar menú emergente</string>
 
     <!-- Opciones menú -->
-    <string name="txtOpcion1">Acción 1</string>
-    <string name="txtOpcion2">Acción 2</string>
-    <string name="txtOpcion3">Acción 3</string>
-    <string name="txtOpcion4">Acción 4</string>
+    <string name="txtOpcion1">Opción barra 1</string>
+    <string name="txtOpcion2">Opción barra 2</string>
+    <string name="txtOpcion3">Opción barra 3</string>
+    <string name="txtOpcion4">Opción barra 4</string>
 
     <!-- Opciones menú contextual -->
-    <string name="txtOpcCtx1">Opción Contextual 1</string>
-    <string name="txtOpcCtx2">Opción Contextual 2</string>
+    <string name="txtOpcCtx1">Opción flotante 1</string>
+    <string name="txtOpcCtx2">Opción flotante 2</string>
+
+
+    <!-- Opciones menú emergente -->
+    <string name="envio_normal">Envio realizado por el canal normal</string>
+    <string name="envio_economico">Envio realizado por el canal económico</string>
+    <string name="envio_posponer">Envio pospuesto</string>
+    <string name="envio_urgente">Envio realizado por el canal urgente</string>
 </resources>

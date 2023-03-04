@@ -1,0 +1,11 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menuItemGray"
+        android:title="Posponer envio" />
+    <item
+        android:id="@+id/menuItemGreen"
+        android:title="Envio económico" />
+    <item
+        android:id="@+id/menuItemRojo"
+        android:title="Envio urgente" />
+</menu>
