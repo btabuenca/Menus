@@ -1,5 +1,6 @@
 package es.upm.btb.menus;
 
+import android.content.Intent;
 import android.graphics.Color;
 import android.os.Bundle;
 import android.view.ContextMenu;
@@ -57,6 +58,10 @@ public class MainActivity extends AppCompatActivity {
     public boolean onOptionsItemSelected(MenuItem item) {
         switch (item.getItemId()) {
             case R.id.opcion1:
+                Intent myIntent = new Intent(this, AboutActivity.class);
+                myIntent.putExtra("key", "value"); //Optional parameters
+                startActivity(myIntent);
+                //TODO cerrar activitydad corriente y abrir nueva
                 Toast.makeText(this, getString(R.string.txtOpcion1), Toast.LENGTH_SHORT).show();
                 break;
             case R.id.opcion2:

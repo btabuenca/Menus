@@ -5,7 +5,7 @@
 
     <!-- Opciones menú -->
     <string name="txtOpcion1">Opción barra 1</string>
-    <string name="txtOpcion2">Opción barra 2</string>
+    <string name="txtOpcion2">About</string>
     <string name="txtOpcion3">Opción barra 3</string>
     <string name="txtOpcion4">Opción barra 4</string>
 
@@ -19,4 +19,13 @@
     <string name="envio_economico">Envio realizado por el canal económico</string>
     <string name="envio_posponer">Envio pospuesto</string>
     <string name="envio_urgente">Envio realizado por el canal urgente</string>
+    <string name="title_activity_about">About</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="about_text">Creado por Bernardo Tabuenca</string>
+
 </resources>
